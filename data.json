@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "name": "Heston Blumenthal",
+    "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 5000,
+    "short_bio": "Heston Blumenthal is a seasoned chef with a passion for Asian cuisine. She loves experimenting with new ingredients and creating unique flavor combinations.",
+
+    "cooking_method": "Stir-fry",
+    "rating": 4.5,
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+        "ingredients": [
+          "Pasta",
+          "Basil",
+          "Garlic",
+          "Olive oil",
+          "Parmesan cheese",
+          "Pine nuts"
+        ]
+      },
+      {
+        "name": "Roasted Chicken",
+        "ingredients": [
+          "Chicken",
+          "Lemon",
+          "Garlic",
+          "Rosemary",
+          "Thyme",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ]
+      },
+      {
+        "name": "Chocolate Cake",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Cocoa powder",
+          "Baking soda",
+          "Baking powder",
+          "Eggs",
+          "Butter",
+          "Milk",
+          "Vanilla extract"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Michael Johnson",
+    "image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "years_of_experience": 5,
+    "number_of_recipes": 20,
+    "likes": 1000,
+    "short_bio": "Michael is a classically trained French chef who is known for his elegant and refined dishes. He loves using fresh, seasonal ingredients in his cooking.",
+
+    "cooking_method": "Sauté",
+    "rating": 4.2,
+    "recipes": [
+      {
+        "name": "Tomato Soup",
+        "ingredients": [
+          "Tomatoes",
+          "Onion",
+          "Garlic",
+          "Vegetable broth",
+          "Cream",
+          "Basil",
+          "Salt",
+          "Pepper"
+        ]
+      },
+      {
+        "name": "Grilled Steak",
+        "ingredients": [
+          "Steak",
+          "Salt",
+          "Pepper",
+          "Olive oil",
+          "Garlic",
+          "Rosemary",
+          "Thyme"
+        ]
+      },
+      {
+        "name": "Blueberry Muffins",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Baking powder",
+          "Salt",
+          "Eggs",
+          "Milk",
+          "Butter",
+          "Blueberries"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alton Brown",
+    "image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+    "years_of_experience": 8,
+    "number_of_recipes": 30,
+    "likes": 2500,
+    "short_bio": "Alton Brown is a Mexican chef who specializes in traditional dishes from her home country. She is passionate about using fresh, locally sourced ingredients in her cooking.",
+
+    "cooking_method": "Grilling",
+    "rating": 4.7,
+    "recipes": [
+      {
+        "name": "Chicken Curry",
+        "ingredients": [
+          "Chicken",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomatoes",
+          "Coconut milk",
+          "Curry powder",
+          "Salt",
+          "Pepper"
+        ]
+      },
+      {
+        "name": "Grilled Shrimp",
+        "ingredients": [
+          "Shrimp",
+          "Lemon",
+          "Garlic",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Parsley"
+        ]
+      },
+      {
+        "name": "Banana Bread",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Baking soda",
+          "Salt",
+          "Eggs",
+          "Butter",
+          "Bananas",
+          "Vanilla extract"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "David Patel",
+    "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "years_of_experience": 3,
+    "number_of_recipes": 10,
+    "likes": 500,
+    "short_bio": "David is an up-and-coming chef who is known for his creative and experimental approach to cooking. He is always trying out new techniques and ingredients in his recipes.",
+
+    "cooking_method": "Curry",
+    "rating": 4.0,
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Black pepper"
+        ]
+      },
+      {
+        "name": "Roasted Vegetables",
+        "ingredients": [
+          "Zucchini",
+          "Bell peppers",
+          "Onion",
+          "Garlic",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ]
+      },
+      {
+        "name": "Apple Pie",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Butter",
+          "Salt",
+          "Apples",
+          "Cinnamon",
+          "Nutmeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sarah Kim",
+    "image": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "years_of_experience": 6,
+    "number_of_recipes": 25,
+    "likes": 2000,
+    "short_bio": "Sarah is a Korean-American chef who loves combining traditional Korean flavors with modern cooking techniques. She is always on the lookout for new and interesting ingredients to use in her dishes.",
+
+    "cooking_method": "Pan-fry",
+    "rating": 4.6,
+    "recipes": [
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "Beef",
+          "Onion",
+          "Garlic",
+          "Carrots",
+          "Potatoes",
+          "Beef broth",
+          "Tomato paste",
+          "Red wine"
+        ]
+      },
+      {
+        "name": "Grilled Salmon",
+        "ingredients": [
+          "Salmon",
+          "Lemon",
+          "Garlic",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Dill"
+        ]
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Brown sugar",
+          "Baking soda",
+          "Salt",
+          "Eggs",
+          "Butter",
+          "Chocolate chips",
+          "Vanilla extract"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Robert Thompson",
+    "image": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "years_of_experience": 12,
+    "number_of_recipes": 60,
+    "likes": 6000,
+    "short_bio": "Robert is a British chef who is passionate about using locally sourced, sustainable ingredients in his cooking. He loves creating hearty, comforting dishes that are full of flavor.",
+
+    "cooking_method": "Roasting",
+    "rating": 4.8,
+    "recipes": [
+      {
+        "name": "Mushroom Risotto",
+        "ingredients": [
+          "Arborio rice",
+          "Mushrooms",
+          "Onion",
+          "Garlic",
+          "Parmesan cheese",
+          "Vegetable broth",
+          "White wine",
+          "Butter"
+        ]
+      },
+      {
+        "name": "Grilled Vegetables",
+        "ingredients": [
+          "Eggplant",
+          "Zucchini",
+          "Bell peppers",
+          "Onion",
+          "Garlic",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ]
+      },
+      {
+        "name": "Lemon Bars",
+        "ingredients": [
+          "Flour",
+          "Powdered sugar",
+          "Butter",
+          "Eggs",
+          "Sugar",
+          "Lemon juice",
+          "Lemon zest"
+        ]
+      }
+    ]
+  }
+]
