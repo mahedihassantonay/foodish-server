@@ -13,6 +13,12 @@ app.get('/', (req,res)=>{
 app.get('/chefsData', (req,res)=>{
     res.send(chefsData)
 })
+app.get('/chefsData/:id', (req,res)=>{
+    const id = req.params.id;
+    console.log(id)
+    const selectedData = chefsData.find(cd=>cd.id == id);
+    res.send(selectedData)
+})
 
 app.listen(5000, ()=>{
     console.log('Server is running on port 5000')
