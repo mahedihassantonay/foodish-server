@@ -6,13 +6,14 @@
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "likes": 5000,
-    "short_bio": "Heston Blumenthal is a seasoned chef with a passion for Asian cuisine. She loves experimenting with new ingredients and creating unique flavor combinations.",
+    "short_bio": "Heston Blumenthal is a seasoned chef with a passion for Asian cuisine. He loves experimenting with new ingredients and creating unique flavor combinations.",
 
     "cooking_method": "Stir-fry",
-    "rating": 4.5,
+    
     "recipes": [
       {
         "name": "Pesto Pasta",
+        "image": "https://images.pexels.com/photos/12006395/pexels-photo-12006395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Pasta",
           "Basil",
@@ -20,10 +21,12 @@
           "Olive oil",
           "Parmesan cheese",
           "Pine nuts"
-        ]
+        ],
+        "rating": 4.5
       },
       {
         "name": "Roasted Chicken",
+        "image": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Chicken",
           "Lemon",
@@ -33,10 +36,12 @@
           "Olive oil",
           "Salt",
           "Pepper"
-        ]
+        ],
+        "rating": 4.1
       },
       {
         "name": "Chocolate Cake",
+        "image": "https://images.pexels.com/photos/1854652/pexels-photo-1854652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Flour",
           "Sugar",
@@ -47,7 +52,8 @@
           "Butter",
           "Milk",
           "Vanilla extract"
-        ]
+        ],
+        "rating": 4.0
       }
     ]
   },
@@ -61,10 +67,11 @@
     "short_bio": "Michael is a classically trained French chef who is known for his elegant and refined dishes. He loves using fresh, seasonal ingredients in his cooking.",
 
     "cooking_method": "Sauté",
-    "rating": 4.2,
+    
     "recipes": [
       {
         "name": "Tomato Soup",
+        "image": "https://images.pexels.com/photos/14614069/pexels-photo-14614069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Tomatoes",
           "Onion",
@@ -74,10 +81,12 @@
           "Basil",
           "Salt",
           "Pepper"
-        ]
+        ],
+        "rating": 4.5
       },
       {
         "name": "Grilled Steak",
+        "image": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Steak",
           "Salt",
@@ -86,10 +95,12 @@
           "Garlic",
           "Rosemary",
           "Thyme"
-        ]
+        ],
+        "rating": 4.9
       },
       {
         "name": "Blueberry Muffins",
+        "image": "https://images.pexels.com/photos/5290585/pexels-photo-5290585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Flour",
           "Sugar",
@@ -99,7 +110,8 @@
           "Milk",
           "Butter",
           "Blueberries"
-        ]
+        ],
+        "rating": 4.0
       }
     ]
   },
@@ -110,13 +122,14 @@
     "years_of_experience": 8,
     "number_of_recipes": 30,
     "likes": 2500,
-    "short_bio": "Alton Brown is a Mexican chef who specializes in traditional dishes from her home country. She is passionate about using fresh, locally sourced ingredients in her cooking.",
+    "short_bio": "Alton Brown is a Mexican chef who specializes in traditional dishes from her home country. He is passionate about using fresh, locally sourced ingredients in her cooking.",
 
     "cooking_method": "Grilling",
-    "rating": 4.7,
+    
     "recipes": [
       {
         "name": "Chicken Curry",
+        "image": "https://images.pexels.com/photos/7438982/pexels-photo-7438982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Chicken",
           "Onion",
@@ -127,10 +140,12 @@
           "Curry powder",
           "Salt",
           "Pepper"
-        ]
+        ],
+        "rating": 4.9
       },
       {
         "name": "Grilled Shrimp",
+        "image": "https://images.pexels.com/photos/6270541/pexels-photo-6270541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Shrimp",
           "Lemon",
@@ -139,10 +154,12 @@
           "Salt",
           "Pepper",
           "Parsley"
-        ]
+        ],
+        "rating": 4.2
       },
       {
         "name": "Banana Bread",
+        "image": "https://images.pexels.com/photos/4114120/pexels-photo-4114120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Flour",
           "Sugar",
@@ -152,7 +169,8 @@
           "Butter",
           "Bananas",
           "Vanilla extract"
-        ]
+        ],
+        "rating": 3.5
       }
     ]
   },
@@ -166,20 +184,23 @@
     "short_bio": "David is an up-and-coming chef who is known for his creative and experimental approach to cooking. He is always trying out new techniques and ingredients in his recipes.",
 
     "cooking_method": "Curry",
-    "rating": 4.0,
+    
     "recipes": [
       {
         "name": "Spaghetti Carbonara",
+        "image": "https://images.pexels.com/photos/5710178/pexels-photo-5710178.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Spaghetti",
           "Pancetta",
           "Eggs",
           "Parmesan cheese",
           "Black pepper"
-        ]
+        ],
+        "rating": 4.0
       },
       {
         "name": "Roasted Vegetables",
+        "image": "https://images.pexels.com/photos/6462179/pexels-photo-6462179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Zucchini",
           "Bell peppers",
@@ -188,10 +209,12 @@
           "Olive oil",
           "Salt",
           "Pepper"
-        ]
+        ],
+        "rating": 4.5
       },
       {
         "name": "Apple Pie",
+        "image": "https://images.pexels.com/photos/1282279/pexels-photo-1282279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Flour",
           "Sugar",
@@ -200,7 +223,8 @@
           "Apples",
           "Cinnamon",
           "Nutmeg"
-        ]
+        ],
+        "rating": 5.0
       }
     ]
   },
@@ -214,10 +238,11 @@
     "short_bio": "Sarah is a Korean-American chef who loves combining traditional Korean flavors with modern cooking techniques. She is always on the lookout for new and interesting ingredients to use in her dishes.",
 
     "cooking_method": "Pan-fry",
-    "rating": 4.6,
+    
     "recipes": [
       {
         "name": "Beef Stew",
+        "image": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Beef",
           "Onion",
@@ -227,10 +252,12 @@
           "Beef broth",
           "Tomato paste",
           "Red wine"
-        ]
+        ],
+        "rating": 4.8
       },
       {
         "name": "Grilled Salmon",
+        "image": "https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Salmon",
           "Lemon",
@@ -239,10 +266,13 @@
           "Salt",
           "Pepper",
           "Dill"
-        ]
+        ],
+        "rating": 4.1
+
       },
       {
         "name": "Chocolate Chip Cookies",
+        "image": "https://images.pexels.com/photos/1775283/pexels-photo-1775283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Flour",
           "Sugar",
@@ -253,7 +283,8 @@
           "Butter",
           "Chocolate chips",
           "Vanilla extract"
-        ]
+        ],
+        "rating": 3.6
       }
     ]
   },
@@ -267,10 +298,11 @@
     "short_bio": "Robert is a British chef who is passionate about using locally sourced, sustainable ingredients in his cooking. He loves creating hearty, comforting dishes that are full of flavor.",
 
     "cooking_method": "Roasting",
-    "rating": 4.8,
+    
     "recipes": [
       {
         "name": "Mushroom Risotto",
+        "image": "https://images.pexels.com/photos/11190138/pexels-photo-11190138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Arborio rice",
           "Mushrooms",
@@ -280,10 +312,12 @@
           "Vegetable broth",
           "White wine",
           "Butter"
-        ]
+        ],
+        "rating": 4.0
       },
       {
         "name": "Grilled Vegetables",
+        "image": "https://images.pexels.com/photos/14537684/pexels-photo-14537684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Eggplant",
           "Zucchini",
@@ -293,10 +327,12 @@
           "Olive oil",
           "Salt",
           "Pepper"
-        ]
+        ],
+        "rating": 4.5
       },
       {
         "name": "Lemon Bars",
+        "image": "https://images.pexels.com/photos/7795464/pexels-photo-7795464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "Flour",
           "Powdered sugar",
@@ -305,7 +341,8 @@
           "Sugar",
           "Lemon juice",
           "Lemon zest"
-        ]
+        ],
+        "rating": 4.8
       }
     ]
   }
