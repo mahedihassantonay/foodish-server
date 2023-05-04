@@ -9,7 +9,7 @@
     "short_bio": "Heston Blumenthal is a seasoned chef with a passion for Asian cuisine. He loves experimenting with new ingredients and creating unique flavor combinations.",
 
     "cooking_method": "Stir-fry",
-    
+
     "recipes": [
       {
         "id": 1,
@@ -70,7 +70,7 @@
     "short_bio": "Michael is a classically trained French chef who is known for his elegant and refined dishes. He loves using fresh, seasonal ingredients in his cooking.",
 
     "cooking_method": "Sauté",
-    
+
     "recipes": [
       {
         "id": 1,
@@ -131,7 +131,7 @@
     "short_bio": "Alton Brown is a Mexican chef who specializes in traditional dishes from her home country. He is passionate about using fresh, locally sourced ingredients in her cooking.",
 
     "cooking_method": "Grilling",
-    
+
     "recipes": [
       {
         "id": 1,
@@ -193,7 +193,7 @@
     "short_bio": "David is an up-and-coming chef who is known for his creative and experimental approach to cooking. He is always trying out new techniques and ingredients in his recipes.",
 
     "cooking_method": "Curry",
-    
+
     "recipes": [
       {
         "id": 1,
@@ -252,7 +252,7 @@
     "short_bio": "Sarah is a Korean-American chef who loves combining traditional Korean flavors with modern cooking techniques. She is always on the lookout for new and interesting ingredients to use in her dishes.",
 
     "cooking_method": "Pan-fry",
-    
+
     "recipes": [
       {
         "id": 1,
@@ -286,7 +286,6 @@
           "Dill"
         ],
         "rating": 4.1
-
       },
       {
         "id": 3,
@@ -318,7 +317,7 @@
     "short_bio": "Robert is a British chef who is passionate about using locally sourced, sustainable ingredients in his cooking. He loves creating hearty, comforting dishes that are full of flavor.",
 
     "cooking_method": "Roasting",
-    
+
     "recipes": [
       {
         "id": 1,
